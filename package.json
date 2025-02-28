@@ -1,9 +1,15 @@
 {
 	"name": "claude-accounts",
 	"description": "CLI for switching between Claude Code accounts",
-	"keywords": ["anthropic", "claude", "cli", "code", "accounts"],
+	"keywords": [
+		"anthropic",
+		"claude",
+		"cli",
+		"code",
+		"accounts"
+	],
 	"author": "Dan Manastireanu <dan.c.manastireanu@gmail.com>",
-	"version": "1.0.0",
+	"version": "1.0.1",
 	"license": "MIT",
 	"bin": "dist/cli.js",
 	"type": "module",
