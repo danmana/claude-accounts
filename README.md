@@ -5,7 +5,10 @@
 
 Switch between multiple accounts for Claude Code cli.
 
-Easily switch between multiple Claude Code accounts without losing your previous account settings. Perfect for developers who need to manage both personal and work accounts.
+Easily switch between multiple Claude Code accounts without losing your previous account settings.  
+Perfect for developers who need to manage both personal and work accounts.
+
+> Disclaimer: I am not affiliated with Anthropic, use this cli tool at your own risk.
 
 ## Install
 
