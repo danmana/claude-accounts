@@ -11,7 +11,9 @@
 	"author": "Dan Manastireanu <dan.c.manastireanu@gmail.com>",
 	"version": "1.0.2",
 	"license": "MIT",
-	"bin": "dist/cli.js",
+	"bin": {
+		"claude-accounts": "dist/cli.js"
+	},
 	"type": "module",
 	"engines": {
 		"node": ">=16"
