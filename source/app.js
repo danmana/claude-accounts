@@ -353,6 +353,25 @@ export default function App() {
 				)}
 			</Box>
 
+			{/* Deprecated warning */}
+			<Box
+				flexDirection="column"
+				marginTop={1}
+				borderStyle="round"
+				borderColor="red"
+				padding={1}
+			>
+				<Text color="red" bold>
+					DEPRECATED
+				</Text>
+				<Text color="red">
+					Claude Code API keys are now stored in macOS Keychain.
+				</Text>
+				<Text color="red">
+					The Claude Code Account Switcher does not work anymore!
+				</Text>
+			</Box>
+
 			{/* Second Box: Account selection */}
 			<Box
 				flexDirection="column"

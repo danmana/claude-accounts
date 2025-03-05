@@ -2,6 +2,8 @@
 
 [![Claude Code](https://img.shields.io/badge/Claude_Code-✻-D97757)](https://docs.anthropic.com/en/docs/agents-and-tools/claude-code/overview) [![Vibe Coding](https://img.shields.io/badge/Vibe_Coding-🤖-7289DA)](https://x.com/karpathy/status/1886192184808149383)
 
+> **⚠️ DEPRECATED: Claude Code API keys are now stored in macOS Keychain. The Claude Code Account Switcher does not work anymore!**
+
 
 Switch between multiple accounts for Claude Code cli.
 
